@@ -24,9 +24,7 @@ I'm a Full Stack Developer enthusiastic about building scalable web applications
 I am constantly expanding my knowledge base. My current focus areas are:
 
 - 🏗️ **Data Structures & Algorithms** (strengthening core logic)
-- 🦀 **Rust** (diving into systems programming)
 - 🤖 **Machine Learning** (exploring AI models with Python)
-- 🔷 **C# Advanced Concepts**
 
 ---
 
