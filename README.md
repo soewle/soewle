@@ -17,17 +17,6 @@ I'm a Full Stack Developer enthusiastic about building scalable web applications
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
----
-
-### 🧠 Currently Learning & Goals
-
-I am constantly expanding my knowledge base. My current focus areas are:
-
-- 🏗️ **Data Structures & Algorithms** (strengthening core logic)
-- 🤖 **Machine Learning** (exploring AI models with Python)
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rober0/rober0/blob/output/github-contribution-grid-snake-dark.svg">
